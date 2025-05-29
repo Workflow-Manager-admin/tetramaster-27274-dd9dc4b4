@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/tetramaster-27274-dd9dc4b4/tetra_master_game"
+}
